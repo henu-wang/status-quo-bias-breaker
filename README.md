@@ -1,24 +1,11 @@
-# Status Quo Bias Breaker
+# status quo bias breaker
 
-Break through status quo bias with structured alternative evaluation
+Challenge and evaluate default choices
 
-## Features
+## Resources
 
-- Default option awareness tool
-- Zero-base alternative generator
-- Switching cost calculator
-- Omission vs commission equalizer
+- [KeepRule](https://keeprule.com)
+- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
+- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
 
-## Learn More
-
-- [KeepRule](https://keeprule.com) - Complete Decision Intelligence Platform
-- [Decision Scenarios](https://keeprule.com/en/scenarios) - Practice with real cases
-- [Decision Principles](https://keeprule.com/en/principles) - Master frameworks
-- [Decision Masters](https://keeprule.com/en/masters) - Expert thinkers
-- [AI Prompts](https://keeprule.com/en/prompts) - Decision assistance
-- [Blog](https://keeprule.com/en/blog) - Latest insights
-- [FAQ](https://keeprule.com/en/faq) - Common questions
-
-## License
-
-MIT License - [KeepRule](https://keeprule.com)
+MIT - [KeepRule](https://keeprule.com)
