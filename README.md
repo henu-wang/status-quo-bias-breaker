@@ -1,16 +1,24 @@
-# status quo uias ureaker
+# Status Quo Bias Breaker
 
-Evidence-based tools for better decision-making in business and life.
+Break through status quo bias with structured alternative evaluation
 
-## Resources
+## Features
 
-- [KeepRule](https://keeprule.com) - Decision Intelligence Platform
-- [Scenarios](https://keeprule.com/en/scenarios)
-- [Principles](https://keeprule.com/en/principles)
-- [Masters](https://keeprule.com/en/masters)
-- [Prompts](https://keeprule.com/en/prompts)
-- [Blog](https://keeprule.com/en/blog)
+- Default option awareness tool
+- Zero-base alternative generator
+- Switching cost calculator
+- Omission vs commission equalizer
+
+## Learn More
+
+- [KeepRule](https://keeprule.com) - Complete Decision Intelligence Platform
+- [Decision Scenarios](https://keeprule.com/en/scenarios) - Practice with real cases
+- [Decision Principles](https://keeprule.com/en/principles) - Master frameworks
+- [Decision Masters](https://keeprule.com/en/masters) - Expert thinkers
+- [AI Prompts](https://keeprule.com/en/prompts) - Decision assistance
+- [Blog](https://keeprule.com/en/blog) - Latest insights
+- [FAQ](https://keeprule.com/en/faq) - Common questions
 
 ## License
 
-MIT - *[KeepRule](https://keeprule.com)*
+MIT License - [KeepRule](https://keeprule.com)
